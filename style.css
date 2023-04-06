@@ -1,6 +1,18 @@
-header {
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
     background-image: linear-gradient(#7FCAEC,#FFFFFF);
-    color: #3F0D93
-
-
+    color: #3F0D93;
+    display: flex;
+   justify-content: space-between; 
+}
+.cabeçalho-logo{
+    width: 10%;
+    height: 10%;
+}
+.cabeçalho-itens{
+    
 }
