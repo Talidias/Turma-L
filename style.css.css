@@ -3,6 +3,9 @@
     padding: 0;
 }
 
+body{
+    font-family: sans-serif;
+}
 .cabeçalho {
     background-image: linear-gradient(#7FCAEC,#FFFFFF);
     color: #3F0D93;
@@ -10,8 +13,8 @@
    justify-content: space-between; 
 }
 .cabeçalho-logo{
-    width: 15%;
-    height: 15%;
+    width: 10%;
+    height: 10%;
 }
 .Matemática{
     background-image: linear-gradient(#62CDFF,#62CDFF);
@@ -19,9 +22,9 @@
     width: 1440px;
     height: 300px;
 }
-.cabeçalho-itens{
+.Matemática-titulo{
+    padding-top: 80px;
+    text-align: left;
+    font-size: 64px;
+}
     
-}
-.título{
-    padding-top: 30px;
-}
